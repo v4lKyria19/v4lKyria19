@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software developer with a passion for problem-solving, clean code, and scalable architecture. Always looking to improve and collaborate on impactful projects.
+Undergraduate student in Systems Engineering at the District University Francisco José de Caldas, with a strong interest in software development, data analysis, and technological innovation. Currently acquiring solid foundations in programming, systems design, and project management.
 
 
 # 💻 Tech Stack:
